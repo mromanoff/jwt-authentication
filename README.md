@@ -1,4 +1,4 @@
-# authentication_course
+# JWT authentication
 
 ## Project setup
 
@@ -30,6 +30,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
